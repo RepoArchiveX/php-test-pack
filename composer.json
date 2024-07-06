@@ -13,5 +13,6 @@
 "license": "GPL-3.0-or-later",
     "autoload": {
         "files": ["src/TestClass.php"]
-    }
+    },
+    "minimum-stability": "dev"
 }
