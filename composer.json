@@ -1,0 +1,14 @@
+{
+    "name": "jonayed-hossan/php-test-pack",
+    "description": "This is playground for understanding php composer packaging system",
+    "authors": [
+        {
+            "name": "Jonayed Hossan Gazi"
+        }
+    ],
+"require": {
+        "php": ">=7.0.0",
+        "thingengineer/mysqli-database-class": "dev-master"
+    },
+"license": "GPL-3.0-or-later"
+}
