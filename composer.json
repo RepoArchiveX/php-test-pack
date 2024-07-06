@@ -12,6 +12,6 @@
     },
 "license": "GPL-3.0-or-later",
     "autoload": {
-        "files": ["src/TestClass.php", "test.php"]
+        "files": ["src/TestClass.php"]
     }
 }
