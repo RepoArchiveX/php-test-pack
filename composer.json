@@ -12,6 +12,8 @@
     },
 "license": "GPL-3.0-or-later",
     "autoload": {
-        "classmap": ["src/", "lib/", "test.php"]
+        "psr-0": {
+            "PhpTest": "src"
+        }
     }
 }
